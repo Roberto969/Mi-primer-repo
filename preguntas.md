@@ -14,3 +14,5 @@ Porque las dos ramas modificaban las mismas líneas y git no sabia cuál elegir
 Sirve para probar cosas nuevas
 6. Si descubres hoy un error cometido hace cinco commits, ¿qué haces para arreglarlo?
 Creando un commit nuevo que deshace el cambio.
+
+7.Me llamo Roberto
