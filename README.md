@@ -5,4 +5,4 @@ Roberto Villafranca Caniego
 
 ## cambios  archivo de texto
 
-linea añadida desde la copia
+Cambio hecho desde la copia
